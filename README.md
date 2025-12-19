@@ -21,7 +21,7 @@
 
   <p align="center">
     <br />
-    <a href="https://cmgcds.github.io/fastvpinns"><strong>Link to Documentation 📚</strong></a>
+    <a href="https://airexlab.github.io/fastvpinns"><strong>Link to Documentation 📚</strong></a>
     <br />
 
   </p>
